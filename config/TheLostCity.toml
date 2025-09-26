@@ -1,0 +1,25 @@
+#Sollen Autos erscheinen?
+SpawnCars = true
+#Es ist das Jigsaw-Tiefenlimit mit einem Maximum von 30.
+#Range: 1 ~ 30
+CitySize = 15
+#Definiert die maximale Entfernung eines Teils vom Strukturanfang.
+#Range: 1 ~ 1000
+CityDistanceFromCenter = 128
+#Durchschnittliche Entfernung zwischen zwei aufeinander folgenden Generierungsversuchen.
+#Range: 0 ~ 4096
+CitySpacing = 64
+#Mindestabstand zwischen zwei aufeinander folgenden Versuchen.
+#Range: 0 ~ 4096
+CitySeparation = 32
+#Legt die Biome fest, in denen Städte erscheinen können.
+CityBiomes = ["plains", "snowy_plains", "sunflower_plains"]
+#Legt die Biome fest, in denen Städte erscheinen können.
+VillagesCityBiomes = ["plains", "snowy_plains", "sunflower_plains"]
+#Mindestabstand zwischen zwei aufeinander folgenden Versuchen.
+#Range: 0 ~ 4096
+VillagesCitySeparation = 32
+#Durchschnittliche Entfernung zwischen zwei aufeinander folgenden Generierungsversuchen.
+#Range: 0 ~ 4096
+VillagesCitySpacing = 64
+

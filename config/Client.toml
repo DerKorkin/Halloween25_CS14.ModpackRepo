@@ -1,0 +1,9 @@
+
+[disclaimer]
+	#Displays the disclaimer
+	"Display Disclaimer?" = false
+
+[death]
+	#Display death effect
+	"Display Death Effect?" = true
+

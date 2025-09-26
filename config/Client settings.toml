@@ -1,0 +1,5 @@
+
+["Player Settings"]
+	#Toggling this off will make the chase effects less flashy
+	"Flashing lights" = true
+
